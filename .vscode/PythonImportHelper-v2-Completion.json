@@ -64,6 +64,38 @@
         "documentation": {}
     },
     {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
         "label": "AppConfig",
         "importPath": "django.apps",
         "description": "django.apps",
@@ -125,6 +157,22 @@
         "description": "rest_framework_simplejwt.tokens",
         "isExtraImport": true,
         "detail": "rest_framework_simplejwt.tokens",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
         "documentation": {}
     },
     {
@@ -288,6 +336,62 @@
         "documentation": {}
     },
     {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "transaction",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
         "label": "models",
         "importPath": "django.db",
         "description": "django.db",
@@ -440,6 +544,54 @@
         "documentation": {}
     },
     {
+        "label": "serializers",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "permissions",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "serializers",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "viewsets",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "permissions",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
         "label": "TokenObtainPairSerializer",
         "importPath": "rest_framework_simplejwt.serializers",
         "description": "rest_framework_simplejwt.serializers",
@@ -512,6 +664,30 @@
         "documentation": {}
     },
     {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
         "label": "path",
         "importPath": "django.urls",
         "description": "django.urls",
@@ -529,6 +705,14 @@
     },
     {
         "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
         "importPath": "django.urls",
         "description": "django.urls",
         "isExtraImport": true,
@@ -576,7 +760,7 @@
         "documentation": {}
     },
     {
-        "label": "include",
+        "label": "path",
         "importPath": "django.urls",
         "description": "django.urls",
         "isExtraImport": true,
@@ -585,6 +769,14 @@
     },
     {
         "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
         "importPath": "django.urls",
         "description": "django.urls",
         "isExtraImport": true,
@@ -654,6 +846,14 @@
         "importPath": "os",
         "description": "os",
         "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "Response",
+        "importPath": "rest_framework.response",
+        "description": "rest_framework.response",
+        "isExtraImport": true,
+        "detail": "rest_framework.response",
         "documentation": {}
     },
     {
@@ -769,12 +969,36 @@
         "documentation": {}
     },
     {
+        "label": "APIView",
+        "importPath": "rest_framework.views",
+        "description": "rest_framework.views",
+        "isExtraImport": true,
+        "detail": "rest_framework.views",
+        "documentation": {}
+    },
+    {
         "label": "django.db.models.deletion",
         "kind": 6,
         "isExtraImport": true,
         "importPath": "django.db.models.deletion",
         "description": "django.db.models.deletion",
         "detail": "django.db.models.deletion",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
         "documentation": {}
     },
     {
@@ -898,6 +1122,14 @@
         "documentation": {}
     },
     {
+        "label": "DefaultRouter",
+        "importPath": "rest_framework.routers",
+        "description": "rest_framework.routers",
+        "isExtraImport": true,
+        "detail": "rest_framework.routers",
+        "documentation": {}
+    },
+    {
         "label": "BlogCategoryClassApiView",
         "importPath": "api.blog_category.views",
         "description": "api.blog_category.views",
@@ -943,6 +1175,126 @@
         "description": "api.products.views",
         "isExtraImport": true,
         "detail": "api.products.views",
+        "documentation": {}
+    },
+    {
+        "label": "Product",
+        "importPath": "api.products.models",
+        "description": "api.products.models",
+        "isExtraImport": true,
+        "detail": "api.products.models",
+        "documentation": {}
+    },
+    {
+        "label": "Product",
+        "importPath": "api.products.models",
+        "description": "api.products.models",
+        "isExtraImport": true,
+        "detail": "api.products.models",
+        "documentation": {}
+    },
+    {
+        "label": "Product",
+        "importPath": "api.products.models",
+        "description": "api.products.models",
+        "isExtraImport": true,
+        "detail": "api.products.models",
+        "documentation": {}
+    },
+    {
+        "label": "Product",
+        "importPath": "api.products.models",
+        "description": "api.products.models",
+        "isExtraImport": true,
+        "detail": "api.products.models",
+        "documentation": {}
+    },
+    {
+        "label": "SaleCreateView",
+        "importPath": "api.sale.views",
+        "description": "api.sale.views",
+        "isExtraImport": true,
+        "detail": "api.sale.views",
+        "documentation": {}
+    },
+    {
+        "label": "Sale",
+        "importPath": "api.sale.models",
+        "description": "api.sale.models",
+        "isExtraImport": true,
+        "detail": "api.sale.models",
+        "documentation": {}
+    },
+    {
+        "label": "SaleItem",
+        "importPath": "api.sale.models",
+        "description": "api.sale.models",
+        "isExtraImport": true,
+        "detail": "api.sale.models",
+        "documentation": {}
+    },
+    {
+        "label": "SaleSerializer",
+        "importPath": "api.sale.serializers",
+        "description": "api.sale.serializers",
+        "isExtraImport": true,
+        "detail": "api.sale.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "Stock",
+        "importPath": "api.stock.models",
+        "description": "api.stock.models",
+        "isExtraImport": true,
+        "detail": "api.stock.models",
+        "documentation": {}
+    },
+    {
+        "label": "Stock",
+        "importPath": "api.stock.models",
+        "description": "api.stock.models",
+        "isExtraImport": true,
+        "detail": "api.stock.models",
+        "documentation": {}
+    },
+    {
+        "label": "Stock",
+        "importPath": "api.stock.models",
+        "description": "api.stock.models",
+        "isExtraImport": true,
+        "detail": "api.stock.models",
+        "documentation": {}
+    },
+    {
+        "label": "ProductSerializer",
+        "importPath": "api.products.serializers",
+        "description": "api.products.serializers",
+        "isExtraImport": true,
+        "detail": "api.products.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "StockViewSet",
+        "importPath": "api.stock.views",
+        "description": "api.stock.views",
+        "isExtraImport": true,
+        "detail": "api.stock.views",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "StockSerializer",
+        "importPath": "api.stock.serializers",
+        "description": "api.stock.serializers",
+        "isExtraImport": true,
+        "detail": "api.stock.serializers",
         "documentation": {}
     },
     {
@@ -1400,6 +1752,141 @@
         "documentation": {}
     },
     {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "api.sale.migrations.0001_initial",
+        "description": "api.sale.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n        ('products', '0001_initial'),\n        migrations.swappable_dependency(settings.AUTH_USER_MODEL),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Sale',\n            fields=[",
+        "detail": "api.sale.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "SaleConfig",
+        "kind": 6,
+        "importPath": "api.sale.apps",
+        "description": "api.sale.apps",
+        "peekOfCode": "class SaleConfig(AppConfig):\n    default_auto_field = \"django.db.models.BigAutoField\"\n    name = \"api.sale\"",
+        "detail": "api.sale.apps",
+        "documentation": {}
+    },
+    {
+        "label": "Sale",
+        "kind": 6,
+        "importPath": "api.sale.models",
+        "description": "api.sale.models",
+        "peekOfCode": "class Sale(models.Model):\n    user = models.ForeignKey(User, on_delete=models.CASCADE, related_name=\"sales\")\n    created_at = models.DateTimeField(auto_now_add=True)\n    total_amount = models.DecimalField(max_digits=12, decimal_places=2, default=0.00)\n    def __str__(self):\n        return f\"Sale {self.id} - {self.sale.username}\"\n    class Meta:\n        db_table = \"sales\"\n        ordering = [\"-created_at\"]\nclass SaleItem(models.Model):",
+        "detail": "api.sale.models",
+        "documentation": {}
+    },
+    {
+        "label": "SaleItem",
+        "kind": 6,
+        "importPath": "api.sale.models",
+        "description": "api.sale.models",
+        "peekOfCode": "class SaleItem(models.Model):\n    sale = models.ForeignKey(Sale, on_delete=models.CASCADE, related_name=\"items\")\n    product = models.ForeignKey(Product, on_delete=models.CASCADE)\n    quantity = models.PositiveIntegerField()\n    price_at_sale = models.DecimalField(max_digits=10, decimal_places=2)\n    created_at = models.DateTimeField(auto_now_add=True)  # ✅ Must be added\n    def get_total(self):\n        return self.quantity * self.price_at_sale\n    def __str__(self):\n        return f\"{self.product.name} x {self.quantity}\"",
+        "detail": "api.sale.models",
+        "documentation": {}
+    },
+    {
+        "label": "SaleItemSerializer",
+        "kind": 6,
+        "importPath": "api.sale.serializers",
+        "description": "api.sale.serializers",
+        "peekOfCode": "class SaleItemSerializer(serializers.ModelSerializer):\n    product_name = serializers.CharField(source=\"product.name\", read_only=True)\n    class Meta:\n        model = SaleItem\n        fields = [\"id\", \"product\", \"product_name\", \"quantity\", \"price_at_sale\"]\nclass SaleSerializer(serializers.ModelSerializer):\n    items = SaleItemSerializer(many=True, read_only=True)\n    user_name = serializers.CharField(source=\"user.username\", read_only=True)\n    class Meta:\n        model = Sale",
+        "detail": "api.sale.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "SaleSerializer",
+        "kind": 6,
+        "importPath": "api.sale.serializers",
+        "description": "api.sale.serializers",
+        "peekOfCode": "class SaleSerializer(serializers.ModelSerializer):\n    items = SaleItemSerializer(many=True, read_only=True)\n    user_name = serializers.CharField(source=\"user.username\", read_only=True)\n    class Meta:\n        model = Sale\n        fields = [\"id\", \"user_name\", \"created_at\", \"total_amount\", \"items\"]",
+        "detail": "api.sale.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "api.sale.urls",
+        "description": "api.sale.urls",
+        "peekOfCode": "urlpatterns = [\n    path(\"create/\", SaleCreateView.as_view(), name=\"sale-create\"),\n]",
+        "detail": "api.sale.urls",
+        "documentation": {}
+    },
+    {
+        "label": "SaleCreateView",
+        "kind": 6,
+        "importPath": "api.sale.views",
+        "description": "api.sale.views",
+        "peekOfCode": "class SaleCreateView(APIView):\n    permission_classes = [permissions.IsAuthenticated]\n    @transaction.atomic\n    def post(self, request):\n        data = request.data\n        user = request.user\n        items_data = data.get(\"items\", [])\n        if not items_data:\n            return Response({\"message\": \"No sale items provided.\"}, status=400)\n        # Create Sale first (so SaleItem FK can use it)",
+        "detail": "api.sale.views",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "api.stock.migrations.0001_initial",
+        "description": "api.stock.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n        ('products', '0001_initial'),\n        migrations.swappable_dependency(settings.AUTH_USER_MODEL),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Stock',\n            fields=[",
+        "detail": "api.stock.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "StockConfig",
+        "kind": 6,
+        "importPath": "api.stock.apps",
+        "description": "api.stock.apps",
+        "peekOfCode": "class StockConfig(AppConfig):\n    default_auto_field = \"django.db.models.BigAutoField\"\n    name = \"api.stock\"",
+        "detail": "api.stock.apps",
+        "documentation": {}
+    },
+    {
+        "label": "Stock",
+        "kind": 6,
+        "importPath": "api.stock.models",
+        "description": "api.stock.models",
+        "peekOfCode": "class Stock(models.Model):\n    product = models.ForeignKey(Product, on_delete=models.CASCADE, related_name=\"stock\")\n    user = models.ForeignKey(\n        User, on_delete=models.SET_NULL, null=True, related_name=\"stocked_products\"\n    )\n    quantity = models.PositiveIntegerField(default=0)\n    created_at = models.DateTimeField(auto_now=True)\n    updated_at = models.DateTimeField(auto_now_add=True)\n    def __str__(self):\n        return f\"{self.product.name} - {self.quantity} in stock\"",
+        "detail": "api.stock.models",
+        "documentation": {}
+    },
+    {
+        "label": "StockSerializer",
+        "kind": 6,
+        "importPath": "api.stock.serializers",
+        "description": "api.stock.serializers",
+        "peekOfCode": "class StockSerializer(serializers.ModelSerializer):\n    product_id = serializers.IntegerField(source=\"product.id\", read_only=True)\n    product_name = serializers.CharField(source=\"product.name\", read_only=True)\n    user = serializers.PrimaryKeyRelatedField(read_only=True)\n    class Meta:\n        model = Stock\n        fields = [\n            \"id\",\n            \"product\",\n            \"product_id\",",
+        "detail": "api.stock.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "api.stock.urls",
+        "description": "api.stock.urls",
+        "peekOfCode": "router = DefaultRouter()\nrouter.register(r\"stocks\", StockViewSet)\nurlpatterns = [\n    path(\"\", include(router.urls)),\n]",
+        "detail": "api.stock.urls",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "api.stock.urls",
+        "description": "api.stock.urls",
+        "peekOfCode": "urlpatterns = [\n    path(\"\", include(router.urls)),\n]",
+        "detail": "api.stock.urls",
+        "documentation": {}
+    },
+    {
+        "label": "StockViewSet",
+        "kind": 6,
+        "importPath": "api.stock.views",
+        "description": "api.stock.views",
+        "peekOfCode": "class StockViewSet(viewsets.ModelViewSet):\n    queryset = Stock.objects.all().order_by(\"-created_at\")\n    serializer_class = StockSerializer\n    permission_classes = [permissions.IsAuthenticated]\n    def perform_create(self, serializer):\n        product = serializer.validated_data[\"product\"]\n        user = self.request.user\n        existing_stock = Stock.objects.filter(product=product, user=user).first()\n        if existing_stock:\n            # Update the quantity",
+        "detail": "api.stock.views",
+        "documentation": {}
+    },
+    {
         "label": "ApiConfig",
         "kind": 6,
         "importPath": "api.apps",
@@ -1593,7 +2080,7 @@
         "kind": 5,
         "importPath": "drfproject.urls",
         "description": "drfproject.urls",
-        "peekOfCode": "urlpatterns = [\n    path(\"admin/\", admin.site.urls),\n    path(\"api/books/\", include(\"api.books.urls\")),\n    path(\"api/cars/\", include(\"api.cars.urls\")),\n    path(\"api/auth/\", include(\"api.authapi.urls\")),\n    path(\"api/blog-category/\", include(\"api.blog_category.urls\")),\n    path(\"api/blog/\", include(\"api.blog.urls\")),\n    path(\"api/products/\", include(\"api.products.urls\")),\n]",
+        "peekOfCode": "urlpatterns = [\n    path(\"admin/\", admin.site.urls),\n    path(\"api/books/\", include(\"api.books.urls\")),\n    path(\"api/cars/\", include(\"api.cars.urls\")),\n    path(\"api/auth/\", include(\"api.authapi.urls\")),\n    path(\"api/blog-category/\", include(\"api.blog_category.urls\")),\n    path(\"api/blog/\", include(\"api.blog.urls\")),\n    path(\"api/products/\", include(\"api.products.urls\")),\n    path(\"api/stock/\", include(\"api.stock.urls\")),\n    path(\"api/sale/\", include(\"api.sale.urls\")),",
         "detail": "drfproject.urls",
         "documentation": {}
     },

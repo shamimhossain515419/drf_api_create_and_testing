@@ -38,6 +38,8 @@ INSTALLED_APPS = [
     "api.blog_category",
     "api.blog",
     "api.products",
+    "api.stock",
+    "api.sale",
 ]
 
 MIDDLEWARE = [

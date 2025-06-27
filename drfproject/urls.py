@@ -9,4 +9,6 @@ urlpatterns = [
     path("api/blog-category/", include("api.blog_category.urls")),
     path("api/blog/", include("api.blog.urls")),
     path("api/products/", include("api.products.urls")),
+    path("api/stock/", include("api.stock.urls")),
+    path("api/sale/", include("api.sale.urls")),
 ]
