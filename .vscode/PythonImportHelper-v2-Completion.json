@@ -1298,6 +1298,14 @@
         "documentation": {}
     },
     {
+        "label": "HttpResponse",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
         "label": "get_asgi_application",
         "importPath": "django.core.asgi",
         "description": "django.core.asgi",
@@ -1327,6 +1335,14 @@
         "description": "datetime",
         "isExtraImport": true,
         "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "home",
+        "importPath": "api.views",
+        "description": "api.views",
+        "isExtraImport": true,
+        "detail": "api.views",
         "documentation": {}
     },
     {
@@ -1893,6 +1909,15 @@
         "description": "api.apps",
         "peekOfCode": "class ApiConfig(AppConfig):\n    default_auto_field = \"django.db.models.BigAutoField\"\n    name = \"api\"",
         "detail": "api.apps",
+        "documentation": {}
+    },
+    {
+        "label": "home",
+        "kind": 2,
+        "importPath": "api.views",
+        "description": "api.views",
+        "peekOfCode": "def home(request):\n    return HttpResponse(\n        \"বি.দ্র.: আপনি যদি home() ফাংশন urls.py ফাইলে রাখতে চান, তাহলে ইমপোর্ট করা দরকার নেই। তখন home() ফাংশনটা শুধু একবার রাখলেই হবে। তবে best practice হলো views আলাদা ফাইলে রাখা।\"\n    )",
+        "detail": "api.views",
         "documentation": {}
     },
     {
